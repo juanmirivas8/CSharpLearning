@@ -1,3 +1,2 @@
-﻿using Generics;
-
-DefaultKeywordExample.Run();
+﻿Console.WriteLine("Press any key to exit...");
+Console.ReadKey();
